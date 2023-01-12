@@ -1,25 +1,69 @@
-# Hello react front end
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/86778388/205303614-88ade5ae-47bf-412a-944d-be2fc6667594.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
 
-## Description
+  <h3><b>Microverse README Template</b></h3>
 
-Hello react front end is a front end app that makes API request to a rails back end app to fetch a random message and displays the message on the screen 
+</div>
 
-## Built with
+<!-- TABLE OF CONTENTS -->
 
-* React
-* Redux
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello reat fron end] <a name="about-project"></a>
+
+**[Hello reat fron end] ** Hello react front end is a front end app that makes API request to a rails back end app to fetch a random message and displays the message on the screen.
+
+### 
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  
+  <ul>
+    <li><a href="https://reactjs.org/">React</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
 
 
 
 
 
+<!-- GETTING STARTED -->
 
-## Getting started 
+## 💻 Getting Started <a name="getting-started"></a>
 
 to use the project To do list please follow :
 
-> Open GitHub and go to my GitHub repository name: hello-ract-fron-end clone.
+> Open GitHub and go to my GitHub repository name: Bookstore clone.
 > Click “Code” and copy the given URL.
 > click code and copy the URL.
 
@@ -33,6 +77,31 @@ to use the project To do list please follow :
 
 $ git clone {repository URL}
 
+
+
+
+### Prerequisites
+
+In order to run this project you need:
+* VS code editor
+* web browswe(chrome Firefox Opera etc)
+
+### Setup
+
+Clone this repository to your desired folder:
+- Clone [this repository](https://github.com/yasinabdmahmood/hello-rails-back-end.git)
+
+
+### Install
+
+Install this project with:
+  ```
+  gem install bundler
+  ```
+  Then run:
+  ```
+  bundle install
+  ```
 ### Usage
 
 > open your directory Bookstore/
@@ -45,40 +114,56 @@ $ npm start to run the local server
 
 ---
 
+### Run tests
 
+To run tests, run the following command:
 
+- rspec .
 
-### Prerequisites
-* VS code editor
-* web browswe(chrome Firefox Opera etc)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Install
-* Git 
+<!-- AUTHORS -->
 
+## 👥 Authors <a name="authors"></a>
 
+👤 **Yaseen**
 
-## Author
-* GitHub: [yasinabdmahmood](https://github.com/yasinabdmahmood)
-* Twitter: [@YASEEN30093859](https://twitter.com/yasenabd7)
+- GitHub: [@yasinabdmahmood](https://github.com/yasinabdmahmood)
+- LinkedIn: [yaseen Abd alwahid](https://www.linkedin.com/in/yaseen-abdalwahid/)
+- GitLab: [YASEEN ABD ALWAHID](https://gitlab.com/yasinabdmahmood)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project make sure to give it a star
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./MIT.md) licensed.
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- [Microverse](https://www.microverse.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
